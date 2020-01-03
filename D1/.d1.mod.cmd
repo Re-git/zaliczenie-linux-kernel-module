@@ -1,0 +1,1 @@
+cmd_/home/remigiusz/work/zut/zaoczne/moduly/zaliczenie/D1/d1.mod := { echo  /home/remigiusz/work/zut/zaoczne/moduly/zaliczenie/D1/d1.o; echo; } > /home/remigiusz/work/zut/zaoczne/moduly/zaliczenie/D1/d1.mod

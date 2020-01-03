@@ -1,0 +1,1 @@
+cmd_/home/remigiusz/work/zut/zaoczne/moduly/zaliczenie/D1/d1.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/remigiusz/work/zut/zaoczne/moduly/zaliczenie/D1/d1.ko /home/remigiusz/work/zut/zaoczne/moduly/zaliczenie/D1/d1.o /home/remigiusz/work/zut/zaoczne/moduly/zaliczenie/D1/d1.mod.o ;  true
